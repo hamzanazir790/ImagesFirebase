@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641542471162",
+    "project_id": "imagesfirebase-def40",
+    "storage_bucket": "imagesfirebase-def40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641542471162:android:da150ed8952ba57002f843",
+        "android_client_info": {
+          "package_name": "com.example.imagesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641542471162-icnjf9dbrcba6hjq7081c33fjscf4q06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNTFycxgwypgtcu-HElJ9H7c1uYDXc0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641542471162-icnjf9dbrcba6hjq7081c33fjscf4q06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
